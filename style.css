@@ -14,11 +14,11 @@
 }
 
 .wrapper button::before{
-    background-color: blue;
+    background: blue;
 }
 
 .wrapper button::after{
-    background-color:red;
+    background:red;
 }
 
 
