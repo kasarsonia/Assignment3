@@ -13,11 +13,11 @@
     display: flex;
 }
 
-.wrapper input::before{
+.wrapper button::before{
     background-color: blue;
 }
 
-.wrapper input::after{
+.wrapper button::after{
     background-color:red;
 }
 
