@@ -9,6 +9,19 @@
 }
 
 
+.wrapper{
+    display: flex;
+}
+
+.wrapper input::before{
+    background-color: blue;
+}
+
+.wrapper input::after{
+    background-color:red;
+}
+
+
 
 
 @media (max-width: 860.5px) {
