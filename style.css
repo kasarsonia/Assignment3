@@ -87,7 +87,7 @@
    overflow: hidden;
    height: 100vh;
    background-image: url('https://assets.codepen.io/1462889/photo.jpeg');
-   background-size: cover;
+   background-size: flex;
    background-position: center;
    transform: scale(1) rotateX(0);
    box-shadow: 0 0 40px rgba(0,0,0,0.2);
